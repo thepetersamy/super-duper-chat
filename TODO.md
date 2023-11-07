@@ -1,16 +1,16 @@
-sign out
+sign out <br/>
 
-join chat room
+join chat room <br/>
 
-leave chat room
+leave chat room <br/>
 
-new chat room
+new chat room <br/>
 
-modify if parts>x to correct num for each case
+modify if parts>x to correct num for each case <br/>
 
-replace semicolon with non ascii char 
+replace semicolon with non ascii char <br/>
 
-reformat classes
+reformat classes <br/>
 
 DB:
     
